@@ -1,0 +1,107 @@
+body {
+  position: relative;
+  background-color: hsl(217, 54%, 11%);
+  font-family: 'Outfit', sans-serif;
+  font-size: 18px;
+  text-align: center;
+}
+
+hr {
+  margin-top: 20px;
+  border-top: 1px;
+  width: 88%;
+  border-color: hsl(215, 51%, 30%);
+}
+
+.card-bg {
+  margin: 100px;
+  display: inline-block;
+  background-color: hsl(217, 53%, 12%);
+  width: 390px;
+  height: 650px;
+  border-radius: 20px;
+}
+
+.card {
+  display: inline-block;
+  background-color: hsl(216, 50%, 16%);
+  text-align: left;
+  margin: 20px;
+  width: 350px;
+  height: 600px;
+  border-radius: 20px;
+}
+
+.img1{
+  margin: 20px 20px 20px 25px;
+  border-radius: 10px;
+}
+
+.heading {
+  font-weight: 600;
+  text-align: left;
+  color: hsl(0, 0%, 100%);
+  margin-left: 20px;
+}
+
+.text1 {
+  margin: 20px;
+  text-align: left;
+  line-height: 1.5;
+  color: hsl(215, 51%, 70%);
+  font-weight: lighter;
+}
+
+.img2 {
+  position: relative;
+  top: 2px;
+  margin-right: 5px;
+}
+
+.text2 {
+  text-align: left;
+  display: inline-block;
+  margin-left: 20px;
+  color: hsl(178, 100%, 50%);
+  font-weight: 500;
+}
+
+.img3 {
+  margin-right: 5px;
+}
+
+.text3 {
+  position: absolute;
+  display: inline;
+  right: 440px;
+  text-align: left;
+  color: hsl(215, 51%, 70%);
+  font-weight: 300;
+}
+
+.text4 {
+  display: inline;
+  position: relative;
+  bottom: 35px;
+  left: 70px;
+  text-align: center;
+  margin-top: 5px;
+  font-size: 14px;
+  color: hsl(215, 51%, 70%);
+  font-weight: lighter;
+}
+
+.img4 {
+  display: inline-block;
+  border-color: white;
+  border-style: solid;
+  border-radius: 20px;
+  border-width: thin;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.Jules {
+  color: hsl(0, 0%, 100%);
+}
